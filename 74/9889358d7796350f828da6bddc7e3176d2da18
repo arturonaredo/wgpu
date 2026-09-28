@@ -1,0 +1,18 @@
+buffer_destroy_tracker_lifecycle_test.go
+  h_54a1c5973b9675 1-105
+core/resource.go
+  h_54a1c5973b9675 749-750,754-768,779-794
+export_test.go
+  h_54a1c5973b9675 8,129-137
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "749889358d7796350f828da6bddc7e3176d2da18",
+  "prompts": {},
+  "humans": {
+    "h_54a1c5973b9675": {
+      "author": "Arturo Naredo <arturono@inditex.com>"
+    }
+  }
+}
